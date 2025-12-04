@@ -1,6 +1,6 @@
 # ML_learning
 
-A collection of machine learning notebooks exploring a variety of algorithms, techniques, and workflows. This repository grows continuously as new notebooks and datasets are added.
+A collection of machine learning topic notebooks exploring a variety of algorithms, techniques, and workflows. This repository grows continuously as new notebooks and datasets are added.
 
 ## 📁 Repository Structure
 
